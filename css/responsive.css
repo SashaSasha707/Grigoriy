@@ -1,0 +1,794 @@
+
+@media screen and (max-width: 1200px) {
+    .container1 {
+        width: 90%;
+    }
+     .container2 {
+        width: 95%;
+    }
+}
+
+@media screen and (max-width: 1100px){
+.news-item {
+    height: 400px;
+    max-width: 22%;
+}
+.news-item4 {
+    height: 350px;
+    max-width: 22%;
+}
+}
+@media screen and (max-width: 1028px){
+.news-item {
+    height: 370px;
+}
+.news-item4 {
+    height: 350px;
+}
+}
+
+@media screen and (max-width: 1024px) {
+    .container1 {
+        width: 90%
+    }
+
+    .news-item p {
+        font-size: 15px;
+        padding: 10px;
+    }
+
+    .news-item a {
+        padding-left: 0;
+    }
+
+    .news-item {
+        height: 300px;
+        justify-content: normal;
+    }
+
+    .image {
+        height: 130px;/*---------------------Изминения 27.0-----------------*/
+    }
+
+    .news-item4 {
+        margin: 0;
+    }
+
+    .news-item a {
+        padding: 0;
+    }
+
+    .news-item4 a {
+        padding: 20px 10px 20px 10px;
+    }
+
+    .project a {
+        height: 400px;
+    }
+
+    .kartinka {
+        width: 400px;
+    }
+
+    .about-project {
+        padding-right: 0px;
+    }
+
+    .project1 {
+        padding-top: 50px;
+        padding-left: 40px;
+    }
+
+    .about-project2 {
+        padding-left: 0px;
+    }
+
+    .projecta {
+        max-width: 350px;
+    }
+
+    .projecta a {
+        max-width: 350px;
+    }
+
+    .kartinka2 {
+        max-width: 350px;
+    }
+
+    .project2 {
+        padding-top: 20px;
+        padding-left: 40px;
+    }
+
+    .project1 h2 {
+        line-height: 35px;
+    }
+
+    .project2 h2 {
+        line-height: 35px;
+    }
+
+    .project2 p {
+        font-size: 22px;
+    }
+
+    .project1 p {
+        font-size: 22px;
+    }
+
+    .content-txt h2 {
+        font-size: 18px;
+    }
+
+    .content-txt h1 {
+        font-size: 30px;
+    }
+
+    .main-work-description {
+        padding: 50px 50px;
+
+    }
+      .slides {   /*--------------------------------изменения 27.01---------------------------------------*/
+    height: 68%; /*--------------------------------изменения 27.01---------------------------------------*/
+   }             /*--------------------------------изменения 27.01---------------------------------------*/
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 1120px) {
+    .container {
+        width: 768px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .menu-container, 
+    .menu-toggle {
+        display: none;
+    }
+
+    .hero-section {
+        padding-top: 70px;
+        padding-bottom: 50px;
+    }
+
+    .ul-header {
+        margin-left: auto;
+    }
+
+    .link-header:focus,
+    .link-header:hover {
+        color: var(--accent-color);
+        box-shadow:
+            inset 0 -0.175em var(--accent-color),
+            inset 0 -0.2em var(--accent-color);
+    }
+
+    .hero-title {
+        font-size: 52px;
+        line-height: 55px;
+        width: 60%;
+
+        margin-left: 20px;
+        margin-bottom: 40px;
+    }
+
+    .hero-text {
+        font-size: 18px;
+        line-height: 21px;
+
+        margin-left: 20px;
+    }
+
+    .hero-img {
+        left: 50%;
+        top: 14%;
+        max-width: 350px;
+        opacity: 0.9;
+    }
+
+    .footer{
+        padding-top: 70px;
+        padding-bottom: 70px;
+        
+    }
+    
+   .footer-text {
+        display: none;
+   }
+
+   .footet-margin {
+        margin-left: 20px;
+   }
+
+   .footer-social {
+        margin-right: 20px;
+}
+
+
+
+
+   
+}
+
+@media screen and (min-width: 1120px) {
+    .container {
+        width: 1120px;
+     }
+    
+    .menu-container,
+    .menu-toggle {
+        display: none;
+    }
+
+    .hero-title {
+        
+        font-weight: 700;
+        font-size: 64px;
+        line-height: 75px;
+    }
+
+    .hero-img {
+        left: 65%;
+        top: 5%;
+        max-width: 420px;
+    }
+    
+
+}
+
+@media screen and (max-width: 920px) {
+ .image {
+        height: 130px;/*---------------------Изминения 27.0-----------------*/
+    }
+}
+
+@media screen and (max-width: 820px) {
+    .slides {   /*--------------------------------изменения 27.01---------------------------------------*/
+    height: 58%; /*--------------------------------изменения 27.01---------------------------------------*/
+   }               /*--------------------------------изменения 27.01---------------------------------------*/
+ .content-txt h1 {  /*--------------------------------изменения 27.01---------------------------------------*/
+    font-size: 26px;  /*--------------------------------изменения 27.01---------------------------------------*/
+ }  /*--------------------------------изменения 27.01---------------------------------------*/
+  .image {
+        height: 100px;/*---------------------Изминения 27.0-----------------*/
+    }
+
+} 
+
+@media screen and (max-width: 800px) {
+    .news-item {
+        height: 350px;
+    }
+
+    .container-box {
+        width: 100%
+    }
+
+}
+
+@media screen and (max-width: 770px) {
+
+}
+@media screen and (max-width: 720px) {  /*--------------------------------изменения 27.01---------------------------------------*/
+    .content-txt h1 {  /*--------------------------------изменения 27.01---------------------------------------*/
+    font-size: 22px;  /*--------------------------------изменения 27.01---------------------------------------*/
+ }
+ .title1 {
+    font-size: 40px;
+ }
+ .title2 {
+    font-size: 30px;
+ }
+ .news-item {
+    height: 380px;
+    max-width: 30%;
+}
+.news-item4 {
+   display: none;
+}
+.image {
+    height: 120px;
+    }
+.krujok {    
+    padding-bottom: 0px;  /* Изминения----------------------------*/
+    width: 100%;
+    }
+    .krujok__text {
+        font-size: 35px;
+    }
+    .main-news-description {
+    padding: 20px 0px 10px 0px;
+   }
+  .project1 {
+    padding-left: 0px;
+  }
+ .kartinka {
+    max-width: 350px;
+ }
+ .project2 {
+    padding-left: 0px;
+ }
+
+}
+
+@media screen and (max-width: 620px) {
+    .title1 {
+    font-size: 34px; /* -----изменения 27.01 -----------------------------------------------------*/
+}
+  
+    .content-txt h1 {
+        font-size: 20px;
+    }
+
+    .content-txt h2 {
+        font-size: 16px;
+    }
+
+    .content-txt a {
+        font-size: 16px;
+    }
+
+    .button {
+        padding-left: 100px;
+    }
+
+    .title2 {
+        font-size: 34px; /* -----изменения 27.01 -----------------------------------------------------*/
+        text-align: center;
+    }
+
+    .main-news-description {
+        padding: 20px 0px;
+    }
+
+    .main-news-items {
+        flex-direction: column;
+    }
+
+    .image {
+        height: 300px;
+    }
+
+    .news-item {
+        max-width: 100%;
+        height: 100%;
+    }
+
+    .main-news-items {
+        align-items: center;
+    }
+
+    .news-item a {
+        padding-right: 20px;
+        padding-bottom: 20px;
+        align-self: end;
+    }
+
+    .news-item4 {
+        flex-direction: row;
+        max-width: 80%;
+    }
+
+    .news-item4 a {
+        font-size: 16px;
+    }
+
+    .project {
+        align-self: center;
+    }
+
+    .about-project {
+        flex-direction: column;
+    }
+
+    .project1 {
+        max-width: 70%;
+        padding-top: 40px;
+        align-self: center;
+        padding-left: 0;
+    }
+
+    .project1 h2 {
+        align-self: center;
+    }
+
+    .project1 p {
+        text-align: center;
+    }
+
+    .about-project2 {
+        flex-direction: column-reverse;
+    }
+
+    .projecta {
+        max-width: 70%;
+        align-self: center;
+    }
+
+    .project2 {
+        align-self: center;
+    }
+
+    .project2 h2 {
+        text-align: center;
+    }
+
+    .project2 p {
+        text-align: center;
+    }
+
+
+  
+
+}  
+@media screen and (max-width: 620px) {  /*--------------------------------изменения 27.01---------------------------------------*/
+.content-txt h2 {  /*--------------------------------изменения 27.01---------------------------------------*/
+    font-size: 18px;  /*--------------------------------изменения 27.01---------------------------------------*/
+}  
+.content-txt {  /*--------------------------------изменения 27.01---------------------------------------*/
+    width: 50%;  /*--------------------------------изменения 27.01---------------------------------------*/
+}
+.title1 {
+    font-size: 34px;
+}
+.main-work-description {
+    padding: 30px 50px;
+ }
+ .image {
+    height: 350px;
+    } 
+
+}
+@media screen and (max-width: 500px) {
+    .image {
+    height: 300px;
+    }
+    .container-box {
+    width: 100%;
+    height: 280px;
+}
+}
+
+ /*     Julia ------------------------------------------------*/
+@media screen and (max-width: 480px) {  
+    .main-news {
+        display: none;
+    }
+    .karusel {
+        display: block;
+    }
+
+    .knopka {
+        display: none;
+    }
+
+     .knopka2 {
+        display: block; /*Изменения---------------------------------------------*/
+    }
+
+    #bar_block {
+        display: none;
+    }
+    /* удалено --------------  #slider {        height: 300px;   ------------- }
+*/
+  
+    .content-txt {
+        width: 50%;
+    }
+    /* подключить для меню бургер*/
+    .project-hiden {
+      
+        margin-top: 30px;
+    }
+
+    .hiden-text1 {
+        max-width: 340px;
+        height: 340px;
+    }
+
+    .hiden-text2 {
+        max-width: 340px;
+        height: 200px;
+    }
+
+    .hiden-text3 {
+        max-width: 340px;
+        height: 340px;
+    }
+
+    .hiden-text4 {
+        max-width: 340px;
+        height: 200px;
+    }
+
+    .hiden-text5 {
+        max-width: 340px;
+        height: 340px;
+    }
+
+    .hiden-text6 {
+        max-width: 340px;
+        height: 200px;
+    }
+
+    .title2 {
+        font-size: 30px;
+    }
+
+    .news-item {              /*--------------------------------изменения 27.01------------------------------*/
+        max-width: 100%;
+        height: 550px;
+        }
+     .news-item p {
+        padding: 10px 10px 0px 10px;
+     }
+     .news-item h2 {
+            padding-top: 10px;
+     }
+     .slider-box {
+        height: 200px;
+     }
+ }
+@media screen and (max-width: 450px) {  /*--------------------------------изменения 27.01---------------------------------------*/
+.content-txt {  /*--------------------------------изменения 27.01---------------------------------------*/
+    width: 60%;  /*--------------------------------изменения 27.01---------------------------------------*/
+}
+}
+@media screen and (max-width: 420px) {  /*--------------------------------изменения 27.01---------------------------------------*/
+.content-txt h1 {  /*--------------------------------изменения 27.01---------------------------------------*/
+    font-size: 18px;  /*--------------------------------изменения 27.01---------------------------------------*/
+}
+.slides {
+    height: 52%;
+}
+.news-item {
+    height: 400px;
+    }
+}
+
+/* Aleksandra*/
+@media screen and (max-width: 375px) {
+  /*удалено -----  #slider {
+        height: 250px;
+    }*/
+    .slides {
+    height: 50%;
+}
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .container {
+        max-width: 345px;
+        overflow: hidden;
+    }
+
+    .header {
+        width: 100%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .logo {
+        position: absolute;
+        top: 12px;
+        left: 24px;
+        font-size: 36px;
+        line-height: 44px;
+    }
+
+    .ul-header {
+        display: none;
+    }
+
+    .hero-section {
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+
+    .hero-title {
+        margin-left: 20px;
+        width: 100%;
+
+        font-size: 32px;
+        line-height: 36px;  
+    }
+
+    .hero-text {
+        margin-left: 20px;
+        width: 100%;
+
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .hero-img {
+        max-width: 200px;
+        left: 40%;
+        top: 31.5%;  
+    }
+
+    .footer {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .footer-flex {
+        display: block;
+    }
+
+    .footer-logo {
+        display: none;
+        
+    }
+
+    .footer-title {
+        margin-right: auto;
+        margin-left: auto;
+
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 20px;
+
+    }
+
+    .footer-text {
+        display: none;
+    }
+
+    .footer-button {
+        min-width: 200px; /*-----------------------------------28/01/2023----------------------*/
+        height: 30px;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center;
+        margin-bottom: 12px;
+
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .li-icon-footer {
+        width: 40px;
+        height: 40px;
+    }
+
+    .modal {
+        width: 300px;
+        top: 50%;
+
+        overflow-y: scroll;
+    }
+
+    .header-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 8px;
+    }
+
+    /*-----------------mobile-menu-------------------*/
+    .js-menu-container {
+        position: fixed;
+        top: 0;
+        left: 0;
+
+        width: 100%;
+        height: 100%;
+        padding: 36px;
+        background-color: var(--primary-color);
+        z-index: 999;
+
+        opacity: 1;
+
+        
+        transform: translateX(100%);
+        transition: transform var(--transition);
+    }
+
+    .menu-container.is-open {
+        transform: translateX(0);
+    }
+
+    .ul-menu-toggle {
+        margin-bottom: 50px;
+    }
+
+    .menu-open { /*-------------------------27/01/2023--------------------------*/
+        position: absolute;
+        top: 24px;
+        right: 24px;
+        display: flex;
+        gap: 4px;
+        align-items: center;
+
+        background-color: transparent;
+        border: transparent;
+
+        cursor: pointer;
+    }
+    
+    .mobile-menu-text {
+        color: var(--accent-color);
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        text-transform: uppercase;
+    }
+
+    .link-menu-toggle {
+        transition: background-color var(--transition), color var(--transition);
+    }
+
+    .link-menu-toggle:hover,
+    .link-menu-toggle:focus {
+        background-color: var(--white-color);
+        color: var(--accent-color);
+
+        text-decoration: none;
+    }
+
+    .menu-icon {
+        fill: var(--accent-color);
+
+    }
+
+    .menu-close {
+        position: absolute;
+        border: transparent;
+        background-color: transparent;
+
+        top: 16px;
+        right: 24px;;
+
+        color: var(--white-color);
+        transition: color var(--transition);
+        
+        cursor: pointer;
+    }
+
+    .menu-icon-close {
+        fill: currentColor;
+        transition: color var(--transition);
+    }
+
+    .menu-close:hover,
+    .menu-close:focus {
+        color: var(--white-color);
+    } 
+
+    .icon-menu {
+        fill: var(--white-color);
+    }
+
+    .li-icon-footer:nth-child(1) .link-icon-footer,
+    .li-icon-menu:nth-child(1) .link-icon-menu {
+        background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+        color: var(--white-color);
+    }
+    
+    .li-icon-footer:nth-child(2) .link-icon-footer,
+    .li-icon-menu:nth-child(2) .link-icon-menu {
+        background: #55acee;
+        color: var(--white-color);
+    }
+    
+    .li-icon-footer:nth-child(3) .link-icon-footer,
+    .li-icon-menu:nth-child(3) .link-icon-menu {
+        background: #3b5999;
+        color: var(--white-color);
+    }
+    
+    .li-icon-footer:nth-child(4) .link-icon-footer,
+    .li-icon-menu:nth-child(4) .link-icon-menu {
+        background: #0077B5;
+        color: var(--white-color);
+    }
+    
+    .li-icon-footer:nth-child(5) .link-icon-footer,
+    .li-icon-menu:nth-child(5) .link-icon-menu {
+        background: #cd201f;
+        color: var(--white-color);
+    }
+}
